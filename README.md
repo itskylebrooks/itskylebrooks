@@ -17,10 +17,11 @@
 - **Software Engineering**: Databases (SQL/SQLite), software design, testing  
 
 ## 📂 Featured Projects
-- 🔗 [**Personal Website**](https://github.com/itskylebrooks/personal-website) – React + TypeScript + TailwindCSS + Framer Motion portfolio (in progress)
+- 🔗 [**Personal Website**](https://github.com/itskylebrooks/portfolio) – React + TypeScript + TailwindCSS + Framer Motion portfolio (in progress)
 - 🤖 [**Mentis**](https://github.com/itskylebrooks/mentis) – Telegram bot API for multilingual LLM conversations (in progress)
 - 🏦 [**Core Banking Simulator**](https://github.com/itskylebrooks/core-banking-simulator) – Secure, role-based Java + SQLite application  
-- 🧩 [**Ritus**](https://github.com/itskylebrooks/ritus) – Minimalist habit tracker (React MVP, in progress)  
+- 🧩 [**Ritus**](https://github.com/itskylebrooks/ritus) – Minimalist habit tracker (React MVP, in progress)
+- 🎨 [**Flowday**](https://github.com/itskylebrooks/flowday) – A 20-second ritual that turns your feelings into flowing visuals, synced via Telegram
 
 ## 📫 Connect
 - ✉️ Email: kirill.bobrov@studium.uni-hamburg.de  
