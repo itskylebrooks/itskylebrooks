@@ -1,6 +1,6 @@
 <h2 align="center">Wellcome! I'm Kyle Brooks (Kirill Bobrov)</h2>
 <p align="center">
-  Computer Science Student @ <a href="https://www.uni-hamburg.de/en.html">University of Hamburg</a> · Future AI Engineer  
+  Emerging leader & builder of minimal web experiences  
 </p>
 
 ## 🚀 About Me
