@@ -21,9 +21,6 @@
 - 🧩 [**Ritus**](https://github.com/itskylebrooks/ritus) – Minimalist habit tracker focused on frictionless daily check-ins, clean charts, and gentle gamification.
 - 🏦 [**Core Banking Simulator**](https://github.com/itskylebrooks/core-banking-simulator) – Role-based Java + SQLite app with basic access controls.
 
-## 📫 Connect
-- ✉️ Email: itskylebrooks@icloud.com 
-- 🌐 LinkedIn: [linkedin.com/in/itskylebrooks](https://linkedin.com/in/itskylebrooks)  
-- 🐙 GitHub: [github.com/itskylebrooks](https://github.com/itskylebrooks)
-- 🐦 X (Twitter): [x.com/itiskylebrooks](https://x.com/itiskylebrooks)
-- 👨‍💻 Website: [itskylebrooks.vercel.app](https://itskylebrooks.vercel.app/)
+## 📬 Links
+
+Let’s connect — you can find me on [LinkedIn](https://linkedin.com/in/itskylebrooks), [X](https://x.com/itiskylebrooks), or via [email](mailto:itskylebrooks@icloud.com).
