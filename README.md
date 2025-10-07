@@ -1,30 +1,29 @@
-<h2 align="center">Wellcome! I'm Kyle Brooks (Kirill Bobrov)</h2>
-<p align="center">
-  Emerging leader & builder of minimal web experiences  
-</p>
+<h3 align="center">Emerging leader & Designer of minimal web experiences</h3>
 
 ## 🚀 About Me
-- 🎓 Pursuing **B.Sc. in Software Systems Development** (since 2024).  
-- 💡 Passionate about **AI, web development, and building useful tools**.  
-- 🌍 Trilingual: **English, Russian, German**.  
-- 🎶 Outside of coding: I enjoy **reading, piano, and martial arts (Aikido)**.  
-- 🛠 Always learning, experimenting, and shipping projects.  
+- 🎓 B.Sc. **Software Systems Development** (since 2024), University of Hamburg
+- 💁‍♂️ Also known as Kirill Bobrov
+- 💡 I build crisp, minimal tools—useful first, pretty on purpose  
+- 🌍 Trilingual: **English · Russian · German**  
+- 🥋 Aikido, 🎹 e-piano, and a steady diet of books  
+- 🛠 Always learning, shipping, and iterating in public
 
 ## 🧑‍💻 Skills & Interests
-- **Programming**: Java, Python, JavaScript/TypeScript, Swift  
-- **Web Development**: React, Node.js, REST APIs, TailwindCSS  
-- **AI/ML**: LLM integration, automation, Python data tools  
-- **Software Engineering**: Databases (SQL/SQLite), software design, testing  
+- **Programming:** Java, Python, JavaScript/TypeScript, Swift  
+- **Web:** React, Node.js, REST, Tailwind CSS, Framer Motion  
+- **AI/Automation:** LLM integration, small agents, Python data tools  
+- **Engineering:** SQL/SQLite, software design, testing
 
 ## 📂 Featured Projects
-- 🔗 [**Personal Website**](https://github.com/itskylebrooks/portfolio) – React + TypeScript + TailwindCSS + Framer Motion portfolio (in progress)
-- 🎨 [**Flowday**](https://github.com/itskylebrooks/flowday) – A 20-second ritual that turns your feelings into flowing visuals, synced via Telegram
-- 🧩 [**Ritus**](https://github.com/itskylebrooks/ritus) – Minimalist habit tracker (React MVP, in progress)
-- 🏦 [**Core Banking Simulator**](https://github.com/itskylebrooks/core-banking-simulator) – Secure, role-based Java + SQLite application
+- 🥋 [**Enso**](https://github.com/itskylebrooks/enso) – An Aikidō knowledge base: searchable techniques, exam guides, and a contributor flow that turns feedback into GitHub issues + clean JSON.
+- 🔗 [**Personal Website**](https://github.com/itskylebrooks/portfolio) – Dark-only portfolio with tasteful motion, strong a11y, and a lean React codebase.
+- 🎨 [**Flowday**](https://github.com/itskylebrooks/flowday) – 20-second ritual that turns feelings into flowing visuals, synced via Telegram.
+- 🧩 [**Ritus**](https://github.com/itskylebrooks/ritus) – Minimalist habit tracker focused on frictionless daily check-ins, clean charts, and gentle gamification.
+- 🏦 [**Core Banking Simulator**](https://github.com/itskylebrooks/core-banking-simulator) – Role-based Java + SQLite app with basic access controls.
 
 ## 📫 Connect
-- ✉️ Email: kirill.bobrov@studium.uni-hamburg.de  
+- ✉️ Email: itskylebrooks@icloud.com 
 - 🌐 LinkedIn: [linkedin.com/in/itskylebrooks](https://linkedin.com/in/itskylebrooks)  
-- 🐙 GitHub: [github.com/itskylebrooks](https://github.com/itskylebrooks)  
-
-<p align="center">⚡️ “Build useful things. Keep moving forward.” ⚡️</p>
+- 🐙 GitHub: [github.com/itskylebrooks](https://github.com/itskylebrooks)
+- 🐦 X (Twitter): [x.com/itiskylebrooks](https://x.com/itiskylebrooks)
+- 👨‍💻 Website: [itskylebrooks.vercel.app](https://itskylebrooks.vercel.app/)
