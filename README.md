@@ -1,4 +1,6 @@
 <h3 align="center">Emerging leader & Designer of minimal web experiences</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🚀 About Me
 - 🎓 B.Sc. **Software Systems Development** (since 2024), University of Hamburg
