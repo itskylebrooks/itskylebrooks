@@ -38,4 +38,4 @@ HTML         24 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## 📬 Links
 
-Let’s connect — you can find me on [LinkedIn](https://linkedin.com/in/itskylebrooks), [X](https://x.com/itiskylebrooks), or via [email](mailto:itskylebrooks@icloud.com).
+Let’s connect — you can find me on [LinkedIn](https://linkedin.com/in/itskylebrooks), [X (Twitter)](https://x.com/itiskylebrooks), or via [email](mailto:itskylebrooks@icloud.com).
