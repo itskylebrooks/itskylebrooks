@@ -30,12 +30,10 @@ Other        3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 - **Engineering:** SQL/SQLite, software design, testing
 
 ## 📂 Featured Projects
-- 🥋 [**Enso**](https://github.com/itskylebrooks/enso) – An Aikidō knowledge base: searchable techniques, exam guides, and a contributor flow that turns feedback into GitHub issues + clean JSON.
 - 🔗 [**Personal Website**](https://github.com/itskylebrooks/portfolio) – Dark-only portfolio with tasteful motion, strong a11y, and a lean React codebase.
-- 🎨 [**Flowday**](https://github.com/itskylebrooks/flowday) – 20-second ritual that turns feelings into flowing visuals, synced via Telegram.
-- 🧩 [**Ritus**](https://github.com/itskylebrooks/ritus) – Minimalist habit tracker focused on frictionless daily check-ins, clean charts, and gentle gamification.
-- 🏦 [**Core Banking Simulator**](https://github.com/itskylebrooks/core-banking-simulator) – Role-based Java + SQLite app with basic access controls.
+- 🥋 [**Enso**](https://github.com/itskylebrooks/enso) – An Aikidō knowledge base: searchable techniques, exam guides, and a contributor flow that turns feedback into GitHub issues + clean JSON.
+- 🧭 [**Ritus**](https://github.com/itskylebrooks/ritus) – Minimalist habit tracker focused on frictionless daily check-ins, clean charts, and gentle gamification.
 
 ## 📬 Links
 
-Let’s connect — you can find me on [LinkedIn](https://linkedin.com/in/itskylebrooks), [X (Twitter)](https://x.com/itiskylebrooks), or via [email](mailto:itskylebrooks@icloud.com).
+Let’s connect — you can find me on [LinkedIn](https://linkedin.com/in/itskylebrooks) or via [email](mailto:itskylebrooks@icloud.com).
