@@ -32,4 +32,4 @@ TypeScript   26 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 ## 📬 Links
 
-Let’s connect — you can find me on [LinkedIn](https://linkedin.com/in/itskylebrooks) or via [email](mailto:itskylebrooks@icloud.com).
+Let’s connect — you can find me on [LinkedIn](https://linkedin.com/in/itskylebrooks) or via [email](mailto:desk@itskylebrooks.tech).
