@@ -32,7 +32,9 @@ HTML         3 mins                ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 * 🧭 [**Ritus**](https://github.com/itskylebrooks/ritus) – Minimalist habit tracker focused on frictionless daily check-ins, clean charts, and gentle gamification.
 * 🥋 [**Enso**](https://github.com/itskylebrooks/enso) – An Aikido knowledge base: searchable techniques, exam guides, and a contributor flow that turns feedback into GitHub issues + clean JSON.
 * ✅ [**Haku**](https://github.com/itskylebrooks/haku) – A calm day-first planner that merges tasks and events into one “activity,” with Day/Week/Board views, Inbox/Later, and local-first PWA support.
+* 🌐 [**Worven**](https://github.com/itskylebrooks/worven) – Translation tool that goes beyond word-for-word output: grammar metadata, pronunciation, usage examples, and LLM-powered paragraph translation with alternatives. BYOK, browser-native, no backend.
+* 📚 [**Lectum**](https://github.com/itskylebrooks/lectum) – A focused reading companion for tracking current, next, and finished books, with thoughtful stats, quick capture flows, and local-first ownership of your library.
 
 ## 📬 Links
 
-Let’s connect — you can find me on [LinkedIn](https://linkedin.com/in/itskylebrooks) or via [email](mailto:desk@itskylebrooks.tech).
+Let’s connect — you can find me on [LinkedIn](https://linkedin.com/in/itskylebrooks) or via [email](mailto:hi@kylebrooks.me).
